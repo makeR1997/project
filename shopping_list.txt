@@ -1,0 +1,7 @@
+potato
+rice
+chicken
+broccoli
+apples
+oranges
+peas
