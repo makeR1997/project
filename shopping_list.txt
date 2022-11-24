@@ -5,3 +5,5 @@ broccoli
 apples
 oranges
 peas
+Coffee
+Beer
